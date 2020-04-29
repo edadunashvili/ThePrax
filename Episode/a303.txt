@@ -1,0 +1,27 @@
+e303_c
+e303_c0_Eingangssituation_bis_zur_Trennung
+
+e303_e
+e303_e0_Ankommen_an_den_fremden_Ort_und_Eheschließung
+
+e303_g
+e303_g0_Erstes_Treffen_mit_der-Hexen
+
+e303_i
+e303_i0_Vom_Erkundigung_der_Not_bis_zum_Aufbruch_des_Helden_zur Hexe
+e303_i1_Das_vereinbarte_Lebenszeichen_meldet_über_die Not
+e303_i2_Bruder_Befreier_kommt_zu_seiner_Schwägerin
+e303_i3_Er_lässt_anderen_täuschen
+e303_i4_Er_informiert_sich_über_die_letzte_Route_seines_Bruders
+
+e303_k
+e303_k0_Vom_Afbruch_zur_Hexe_bis_zum_ihre_Überweltigung
+
+e303_m
+e303_m0_Eifersucht
+
+e303_o
+e303_o0_Erlösung_der_Hexe
+
+e303_q
+e303_q0_Rückkehr_und_Finale
