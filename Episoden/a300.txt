@@ -40,9 +40,9 @@ e300_od_____Hochzeit
 e300_oe_____Belohnung
 
 ------------------------
-Schema für die Annotatation der Episoden für den Typ ATU 300 - Der Drachentöter
-Estellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung"
-von Elguja Dadunashvili
-Friedrisch-Schiller-Universität Jena
+Episoden-Markup für den Typ ATU 300 - Der Drachentöter
+Estellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
+Friedrisch-Schiller-Universität Jena, Somersemester 2020
+Erstellt von Elguja Dadunashvili
 Lizenzbedingungen: CC0 1.0
 
