@@ -17,12 +17,17 @@ e300_gb_____Markierung_der_Held_oder_seine_Tiere_werden_von_der_geretteten_Jungf
 e300_gc_____Abschied_oder_Einschlafen_entspricht_dem___Ende_e300g
 
 e300_i_Rückkehr_der_Königstochter_und_die_Suche_nach_dem_Held-Retter
-e300_ia_____Mishandlungen_des_falschen_Helden____Anfang_e300i
+e300_ia_____Befreite_Prinzessin_geht_zm_Palast____Anfang_e300i
+e300_ib_____Wahrheitstest
+e300_ic_____Suche_nach_dem_Held_____Ende_e300i
 
 e300_k_Misshandlung_des_falschen_Helden_bis_zur_Hochzeitstag
-e300_ka_____Befreite_Prinzessin_geht_zm_Palast____Anfang_e300k
-e300_kb_____Wahrheitstest
-e300_kc_____Suche_nach_dem_Held_____Ende_e300k
+e300_ka_____Der_falschen_Helden_bringt_den_richtigen_um
+e300_kb_____Der_falsche_Held_bezwingt_die_Prinzessin_ihn_als_befreier_vorzugeben
+e300_kc_____Die_Hochzeit_wird_verschoben
+
+e300_l_Wiederbelebung_des_Helden
+e300_la____Dankbare_Tiere_beschaffen_ein_Zaubermittel
 
 e300_m_Rückkehr_des_Helden_von_der_Erkundung_über_die_Hochzeit_bis_zum_Wiedergewinn_der_Aufmerksamkeit
 e300_ma_____Auffälige_Rückkehr_des_Helden_er_zieht_das_Interesse_auf_sich_____Anfang_e300m
@@ -34,22 +39,10 @@ e300_oc_____Bestrafung
 e300_od_____Hochzeit
 e300_oe_____Belohnung
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+------------------------
+Schema für die Annotatation der Episoden für den Typ ATU 300 - Der Drachentöter
+Estellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung"
+von Elguja Dadunashvili
+Friedrisch-Schiller-Universität Jena
+Lizenzbedingungen: CC0 1.0
 
