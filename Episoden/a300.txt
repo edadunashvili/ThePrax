@@ -21,7 +21,6 @@ e300_ia_____Befreite_Prinzessin_geht_zm_Palast____Anfang_e300i
 e300_ib_____Wahrheitstest
 e300_ic_____Suche_nach_dem_Held_____Ende_e300i
 
-
 e300_k_Misshandlung_des_falschen_Helden_bis_zur_Hochzeitstag
 e300_ka_____Der_falschen_Helden_bringt_den_richtigen_um
 e300_kb_____Der_falsche_Held_bezwingt_die_Prinzessin_ihn_als_befreier_vorzugeben
@@ -40,22 +39,10 @@ e300_oc_____Bestrafung
 e300_od_____Hochzeit
 e300_oe_____Belohnung
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+------------------------
+Schema für die Annotatation der Episoden für den Typ ATU 300 - Der Drachentöter
+Estellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung"
+von Elguja Dadunashvili
+Friedrisch-Schiller-Universität Jena
+Lizenzbedingungen: CC0 1.0
 
