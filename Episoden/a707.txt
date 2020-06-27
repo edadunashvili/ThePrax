@@ -56,3 +56,9 @@ e707_ic____Der_sprechende_Vogel_erzählt_alles_beim_Treffen_mit_den_König
 e707_ic____Die_Wahrheit_wird_durch_die_Bücher_und_Schriften_überprüft
 e707_ic____Die_Wahrheit_wird_durch_die_Abfragung_der_für_die_Geschichte_wichtigen_Personen_überprüft
 e707_id____Wiedervereinigung_und_Bestraffung_der_Antagonisten/Antagonistin____Ende_e707i
+-----------------------------------------------
+Episoden-Markup für den Typ ATU 707 - Die drei goldenen Kinder
+Erstellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
+Friedrisch-Schiller-UniversitätJena, Somersemester 2020
+Erstellt von Sara Cikota unter der Leitung von Prof. Dr. Elguja Dadunashvili
+Lizenzbedingungen: CC0 1.0
