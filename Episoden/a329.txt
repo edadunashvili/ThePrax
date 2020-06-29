@@ -1,0 +1,21 @@
+e329_aa____Platzhalter_für_die_Episode_e554_c_
+
+e329_c_Eingangsepisode_bis_der_Ankundigung_der_Heiratsbedingungen_und_Reaktion_der_Freier
+e329_ca___Platzhalter_für_die_Episode_e554_c_
+
+e329_e_Misslungener_Versuch_des_FH_ohne_tödliche_Konsequenzen
+
+e329_g_Misslungener_Versuch_des_FH_mit_tödliche_Konsequenzen
+e329_ga___Platzhalter_für_die_Episode_e554_c_
+
+e329_i_ Misslungener_Versuch_des_HD
+
+e329_k_ Erfolgreicher_Versuch_des_HD_und_Unterwerfung_der_Prinzessin
+
+
+------------------------
+Episoden-Markup für den Typ ATU 329 - Versteckwette
+Estellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
+Friedrisch-Schiller-Universität Jena, Somersemester 2020
+Erstellt von Elguja Dadunashvili
+Lizenzbedingungen: CC0 1.0
