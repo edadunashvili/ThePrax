@@ -1,0 +1,69 @@
+Meier (85).txt|84. Der Birnbaum auf der Haide.|0|0
+Meier (85).txt|Draußen auf grünester Haide|0|0
+Meier (85).txt|Dort steht ein Birebaum, trägt Laub.|0|0
+Meier (85).txt|Was wächst an selbigem Baume?|0|0
+Meier (85).txt|Ein wunderschöner Nast! (Ast.)|0|0
+Meier (85).txt|Nast am Baum, Baum in der Eck.|0|0
+Meier (85).txt|Draußen auf grünester Haide|0|0
+Meier (85).txt|Dort steht ein Birebaum, trägt Laub.|0|0
+Meier (85).txt|Was wächst an selbigem Naste?|0|0
+Meier (85).txt|Ein wunderschöner Zweig!|0|0
+Meier (85).txt|Zweig am Nast, Nast am Baum,|0|0
+Meier (85).txt|Baum in der Eck.|0|0
+Meier (85).txt|Draußen auf grünester Haide|0|0
+Meier (85).txt|Dort steht ein Birebaum, trägt Laub.|0|0
+Meier (85).txt|Was wächst an selbigem Zweige?|0|0
+Meier (85).txt|Ein wunderschöner Stiel.|0|0
+Meier (85).txt|Stiel am Zweig, Zweig am Nast,|0|0
+Meier (85).txt|Nast am Baum, Baum in der Eck.|0|0
+Meier (85).txt|Draußen auf grünester Haide|0|0
+Meier (85).txt|Dort steht ein Birebaum, trägt Laub.|0|0
+Meier (85).txt|Was wächst an selbigem Stiele?|0|0
+Meier (85).txt|Eine wunderschöne Bir'.|0|0
+Meier (85).txt|Bir' am Stiel, Stiel am Zweig,|0|0
+Meier (85).txt|Zweig am Nast, Nast am Baum,|0|0
+Meier (85).txt|Baum in der Eck.|0|0
+Meier (85).txt|Draußen auf grünester Haide|0|0
+Meier (85).txt|Dort steht ein Birebaum, trägt Laub.|0|0
+Meier (85).txt|Was wächst an selbiger Bire?|0|0
+Meier (85).txt|Ein wunderschöner Butz.|0|0
+Meier (85).txt|Butz an der Bir, Bir am Stiel,|0|0
+Meier (85).txt|Stiel am Zweig, Zweig am Nast,|0|0
+Meier (85).txt|Nast am Baum, Baum in der Eck.|0|0
+Meier (85).txt|Draußen auf grünester Haide,|0|0
+Meier (85).txt|Dort steht ein Birebaum, trägt Laub.|0|0
+Meier (85).txt|Was wächst in selbigem Butze?|0|0
+Meier (85).txt|Ein wunderschönes Nest.|0|0
+Meier (85).txt|Nest im Butz, Butz an der Bir,|0|0
+Meier (85).txt|Bir' am Stiel, Stiel am Zweig,|0|0
+Meier (85).txt|Zweig am Nast, Nast am Baum,|0|0
+Meier (85).txt|Baum in der Eck.|0|0
+Meier (85).txt|Draußen auf grünester Haide,|0|0
+Meier (85).txt|Dort steht ein Birebaum, trägt Laub.|0|0
+Meier (85).txt|Was wächst in selbigem Neste?|0|0
+Meier (85).txt|Ein wunderschönes Ei.|0|0
+Meier (85).txt|Ei im Nest, Nest im Butz,|0|0
+Meier (85).txt|Butz an der Bir, Bir am Stiel,|0|0
+Meier (85).txt|Stiel am Zweig, Zweig am Nast,|0|0
+Meier (85).txt|Nast am Baum, Baum in der Eck.|0|0
+Meier (85).txt|Draußen auf grünester Haide|0|0
+Meier (85).txt|Dort steht ein Birebaum, trägt Laub.|0|0
+Meier (85).txt|Was wächst in selbigem Ei?|0|0
+Meier (85).txt|Ein wunderschöner Vogel.|0|0
+Meier (85).txt|Vogel im Ei, Ei im Nest,|0|0
+Meier (85).txt|Nest im Butz, Butz an der Bir,|0|0
+Meier (85).txt|Bir am Stiel, Stiel am Zweig,|0|0
+Meier (85).txt|Zweig am Nast, Nast am Baum,|0|0
+Meier (85).txt|Baum in der Eck.|0|0
+Meier (85).txt|Draußen auf grünester Haide|0|0
+Meier (85).txt|Dort steht ein Birebaum, trägt Laub.|0|0
+Meier (85).txt|Was wächst an selbigem Vogel?|0|0
+Meier (85).txt|Ein wunderschöner Schnabel.|0|0
+Meier (85).txt|Schnabel am Vogel, Vogel im Ei,|0|0
+Meier (85).txt|Ei im Nest, Nest im Butz,|0|0
+Meier (85).txt|Butz an der Bir, Bir am Stiel,|0|0
+Meier (85).txt|Stiel am Zweig, Zweig am Nast,|0|0
+Meier (85).txt|Nast am Baum, Baum in der Eck.|0|0
+Meier (85).txt|Draußen auf grünester Haide,|0|0
+Meier (85).txt|Dort steht ein Birebaum, trägt Laub.|0|0
+Meier (85).txt||0|0

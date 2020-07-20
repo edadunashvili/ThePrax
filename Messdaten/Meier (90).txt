@@ -1,0 +1,25 @@
+Meier (90).txt|89. Der Brief im Ei.|0|0
+Meier (90).txt|Es war einmal ein schöner Garten,|0|0
+Meier (90).txt|Hier ein Garten, da ein Garten,|0|0
+Meier (90).txt|War es nicht ein schöner Garten!|0|0
+Meier (90).txt|In dem Garten war ein Baum,|0|0
+Meier (90).txt|Hier ein Baum, da ein Baum,|0|0
+Meier (90).txt|War es nicht ein schöner Baum!|0|0
+Meier (90).txt|In dem Baum da war ein Nest,|0|0
+Meier (90).txt|Hier ein Nest, da ein Nest,|0|0
+Meier (90).txt|War es nicht ein schönes Nest!|0|0
+Meier (90).txt|In dem Nest da war ein Vogel,|0|0
+Meier (90).txt|Hier ein Vogel, da ein Vogel,|0|0
+Meier (90).txt|War es nicht ein schöner Vogel!|0|0
+Meier (90).txt|In dem Vogel war ein Ei,|0|0
+Meier (90).txt|Hier ein Ei, da ein Ei,|0|0
+Meier (90).txt|War es nicht ein schönes Ei!|0|0
+Meier (90).txt|In dem Ei da war ein Dotter,|0|0
+Meier (90).txt|Hier ein Dotter, da ein Dotter,|0|0
+Meier (90).txt|War es nicht ein schöner Dotter!|0|0
+Meier (90).txt|In dem Dotter war ein Brief,|0|0
+Meier (90).txt|Hier ein Brief, da ein Brief,|0|0
+Meier (90).txt|War es nicht ein schöner Brief!|0|0
+Meier (90).txt|In dem Briefe stand geschrieben:|0|0
+Meier (90).txt|Jedermann soll Jesus lieben!|0|0
+Meier (90).txt||0|0
