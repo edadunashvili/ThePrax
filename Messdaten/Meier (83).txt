@@ -1,0 +1,61 @@
+Meier (83).txt|82. Jokele.|0|0
+Meier (83).txt|Es schickt der Herr des Jokele naus,|0|0
+Meier (83).txt|Soll die Bire schüttle;|0|0
+Meier (83).txt|'s Jokele will net d' Bire schüttle,|0|0
+Meier (83).txt|D' Bire wöllet net falle.|0|0
+Meier (83).txt|Schickt der Herr a Hundle naus,|0|0
+Meier (83).txt|Soll des Jokele beiße.|0|0
+Meier (83).txt|'s Hundle will net 's Jokele beiße,|0|0
+Meier (83).txt|'s Jokele will net d' Bire schüttle,|0|0
+Meier (83).txt|D' Bire wöllet net falle.|0|0
+Meier (83).txt|Schickt der Herr a Prügele naus,|0|0
+Meier (83).txt|Soll das Hundle schlage.|0|0
+Meier (83).txt|'s Prügele will net 's Hundle schlage,|0|0
+Meier (83).txt|'s Hundle will net 's Jokele beiße,|0|0
+Meier (83).txt|'s Jokele will net d' Bire schüttle,|0|0
+Meier (83).txt|D' Bire wöllet net falle.|0|0
+Meier (83).txt|Schickt der Herr a Feuerle naus,|0|0
+Meier (83).txt|Soll das Prügele brenne.|0|0
+Meier (83).txt|'s Feuerle will net 's Prügele brenne,|0|0
+Meier (83).txt|'s Prügele will net 's Hundle schlage,|0|0
+Meier (83).txt|'s Hundle will net 's Jokele beiße,|0|0
+Meier (83).txt|'s Jokele will net d' Bire schüttle,|0|0
+Meier (83).txt|D' Bire wöllet net falle.|0|0
+Meier (83).txt|Schickt der Herr 's Wäßerle naus,|0|0
+Meier (83).txt|Soll das Feuerle lösche.|0|0
+Meier (83).txt|'s Wäßerle will net 's Feuerle lösche,|0|0
+Meier (83).txt|'s Feuerle will net 's Prügele brenne,|0|0
+Meier (83).txt|'s Prügele will net 's Hundle schlage,|0|0
+Meier (83).txt|'s Hundle will net 's Jokele beiße,|0|0
+Meier (83).txt|'s Jokele will net d' Bire schüttle,|0|0
+Meier (83).txt|D' Bire wöllet net falle.|0|0
+Meier (83).txt|Schickt der Herr a Oechsle naus,|0|0
+Meier (83).txt|Soll das Wäßerle saufe.|0|0
+Meier (83).txt|'s Oechsle will net 's Wäßerle saufe,|0|0
+Meier (83).txt|'s Wäßerle will net 's Feuerle lösche,|0|0
+Meier (83).txt|'s Feuerle will net 's Prügele brenne,|0|0
+Meier (83).txt|'s Prügele will net 's Hundle schlage,|0|0
+Meier (83).txt|'s Hundle will net 's Jokele beiße,|0|0
+Meier (83).txt|'s Jokele will net d' Bire schüttle,|0|0
+Meier (83).txt|D' Bire wöllet net falle.|0|0
+Meier (83).txt|Schickt der Herr a Metzgerle naus,|0|0
+Meier (83).txt|Soll das Oechsle metzge.|0|0
+Meier (83).txt|'s Metzgerle will net 's Oechsle metzge,|0|0
+Meier (83).txt|'s Oechsle will net 's Wäßerle saufe,|0|0
+Meier (83).txt|'s Wäßerle will net 's Feuerle lösche,|0|0
+Meier (83).txt|'s Feuerle will net 's Prügele brenne,|0|0
+Meier (83).txt|'s Prügele will net 's Hundle schlage,|0|0
+Meier (83).txt|'s Hundle will net 's Jokele beiße,|0|0
+Meier (83).txt|'s Jokele will net d' Bire schüttle,|0|0
+Meier (83).txt|D' Bire wöllet net falle.|0|0
+Meier (83).txt|Schickt der Herr den Henker naus,|0|0
+Meier (83).txt|Soll das Metzgerle henke.|0|0
+Meier (83).txt|Henker will ja 's Metzgerle henke,|0|0
+Meier (83).txt|'s Metzgerle will ja 's Oechsle metzge,|0|0
+Meier (83).txt|'s Oechsle will ja 's Wäßerle saufe,|0|0
+Meier (83).txt|'s Wäßerle will ja 's Feuerle lösche,|0|0
+Meier (83).txt|'s Feuerle will ja 's Prügele brenne,|0|0
+Meier (83).txt|'s Prügele will ja 's Hundle schlage,|0|0
+Meier (83).txt|'s Hundle will ja 's Jokele beiße,|0|0
+Meier (83).txt|'s Jokele will ja d' Bire schüttle,|0|0
+Meier (83).txt|D' Bire wöllet ja falle.|0|0

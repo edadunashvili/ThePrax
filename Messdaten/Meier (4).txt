@@ -11,4 +11,3 @@ Meier (4).txt|Ein schönes Vöglein bin ich!|0|0
 Meier (4).txt|Meine Mutter hat mich kocht,|0|0
 Meier (4).txt|Mein Vater hat mich geßt.|0|0
 Meier (4).txt|Kaum aber war das Lied aus, so fiel der Eichbaum krachend um und schlug die böse Frau todt. Dem Holzhauer aber geschah kein Leid.|0|0
-Meier (4).txt||0|0
