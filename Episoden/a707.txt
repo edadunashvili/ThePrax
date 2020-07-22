@@ -73,5 +73,5 @@ e707_wd____Wiedervereinigung_und_Bestraffung_der_Antagonisten/Antagonistin____En
 Episoden-Markup für den Typ ATU 707 - Die drei goldenen Kinder
 Erstellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
 Friedrisch-Schiller-UniversitätJena, Somersemester 2020
-Erstellt von Sara Cikota unter der Leitung von Prof. Dr. Elguja Dadunashvili
+Schema wurde erstellt von Sara Cikota unter der Leitung von Prof. Dr. Elguja Dadunashvili
 Lizenzbedingungen: CC0 1.0
