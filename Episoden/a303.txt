@@ -38,7 +38,7 @@ e303_qa_____Ohne_oder_nach_den_vorherigen_m_o_Episoden
 -----------------------------------------------
 Episoden-Markup für den Typ ATU 303 - Die zwei Brüdern
 Erstellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
-Friedrisch-Schiller-UniversitätJena, Sommer-Semester 2019
+Friedrisch-Schiller-UniversitätJena, Sommer-Semester 2018
 Schema wurde erstellt von Melanie Zender unter der Leitung von Prof. Dr. Elguja Dadunashvili
 Schema wurde überarbeitet von Elguja Dadunashvili im Sommer-Semester 2020 
 Lizenzbedingungen: CC0 1.0
