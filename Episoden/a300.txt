@@ -1,3 +1,5 @@
+a300_Der_Drachentöter
+
 e300_c_Anfangssituation_Ankunft_und_Erkundigung_der_Not
 e300_ca_____Ankunft_in_der_fremden_Stadt____Anfang_e300c
 e300_cb_____Auffälligkeit_des_Trauerns_des_Mangels_an_das_Trinkwasser
@@ -42,7 +44,7 @@ e300_oe_____Belohnung
 ------------------------
 Episoden-Markup für den Typ ATU 300 - Der Drachentöter
 Estellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
-Friedrisch-Schiller-Universität Jena, Somersemester 2020
+Friedrisch-Schiller-Universität Jena, Sommersemester 2020
 Erstellt von Elguja Dadunashvili
 Lizenzbedingungen: CC0 1.0
 
