@@ -1,0 +1,24 @@
+e302_c_Motivation_für_den_Auszug_des_HD_ist_unabhängig_vom_Hauptkonflikt
+e302_ca____Das_Märchen_kann_mit_dem_Typ_303A_Sieben_Schwestern_für_sieben_Brüder_begonnen_werden
+
+e302_e_Verlust_des_OB_wird_artikuliert
+
+e302_g_Erprobung_der_Fähigkeiten_des_HD
+
+e302_i_Begegnung_des_HD_und_des_ST_bis_zur_Ausrüstung_des_HD
+e302_ia____mögliche_Kombination_mit_Typ_554_Die_dankbaren_Tiere_statt_der_Episode_e302_i
+
+e302_k_Erkundigung_über_den_Aufenthaltsort_des_Lebens_des_AN
+
+e302_m_Auszug_des_HD_bis_zum_Sieg
+e302_ma____Übergang_zu_301_falls_der_HD_in_Begleitung_von_FH_ist
+
+e302_o_Befreiung_des_OB_bis_zur_Belohnung_des_HD_oder_erneuten_Mangelsituation
+e302_oa____diese_Episode_gilt_als_eigenständiges_Finale_des_Typs_302
+
+-----------------------------------------------
+Episoden-Markup für den Typ ATU 302 - Das Herz des Unholds im Ei
+Erstellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
+Friedrisch-Schiller-UniversitätJena, Sommer-Semester 2020
+Schema wurde erstellt von Ellena Rabe-Maticevic unter der Leitung von Prof. Dr. Elguja Dadunashvili
+Lizenzbedingungen: CC0 1.0
