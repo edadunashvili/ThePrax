@@ -1,5 +1,3 @@
-a707 - Die drei goldenen Kinder
-
 e707c_Aussetzen_der_Kinder_bis_zu_dem_Kontakt_mit_dem_künftigem_Bräutigam
 e707_ca____Die_Stiefmutter_zwingt_ihren_Mann_seine_Töchter_in_der_Wildnis_auszusetzen
 
@@ -72,6 +70,6 @@ e707_wd____Wiedervereinigung_und_Bestraffung_der_Antagonisten/Antagonistin____En
 -----------------------------------------------
 Episoden-Markup für den Typ ATU 707 - Die drei goldenen Kinder
 Erstellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
-Friedrisch-Schiller-UniversitätJena, Somersemester 2020
+Friedrisch-Schiller-UniversitätJena, Sommer-Semester 2020
 Schema wurde erstellt von Sara Cikota unter der Leitung von Prof. Dr. Elguja Dadunashvili
 Lizenzbedingungen: CC0 1.0
