@@ -1,0 +1,16 @@
+e531_c_Eingangsepisode_bis_zum_Beschaffung_des_vertvollen_Gegenstandes
+e531_e_Zum_Besuch_beim_König_und_die_Reaktion_des_Königs
+e531_g_Stellen_einer_der_vorlezten_Aufgabe
+e531_i_Begednung_mit_dem_Helfer
+e531_k_Erfüllung_einer_der_vorletzten_Aufgabe
+e531_m_Stellen_der_letzten_Aufgabe
+e531_o_Letzte_Begegnung_mit_dem_Helfer
+e531_q_Erfüllung_der_letzten_Aufgabe
+e531_s_Strfe_statt_der_Hochzeit_bis_zum_Ende
+
+------------------------
+Episoden-Markup für den Typ ATU 531 - Das kluge Pferd
+Estellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
+Friedrisch-Schiller-Universität Jena, Sommer-Semester 2020
+Erstellt von Elguja Dadunashvili
+Lizenzbedingungen: CC0 1.0
