@@ -1,0 +1,108 @@
+e516_c_Grund_der_Freundschaft
+e516_ca_____Vertreten_durch_die_e931_c_Todespropezeihung_Aussetzen_des_neugeborenen_Kindes_bis_zum_Entrissen_des_Kindes_von_der_Wilde
+e516_ca_____Vertreten_durch_die_eCoM_a_conceptia_magica
+m516_c_c_Der_HF_ist_schon_einiger_Zeit_im_Hof_tätig
+
+e516_e_Fernliebe_bis_zum_Aufbruch_zur_Suche_der_Traumfrau
+e516_ea_____Der_Held_verliebt_sich_in_die_Frau_die_schwer_zu_erreichen_ist
+e516_eb_____Der_Held_versinkt_in_die_Fassungslosigkeit_oder_wird_krank
+e516_ec_____Der_Helfer_mischt_nach_unterschiedlicher_Weise_ins_Problem_ein
+e516_ec_____Afbruch_nach_der_Suche_der_Traumfrau
+
+e516_g_ertste_Begegnung_mit_dem_Helfer
+e516_ga_____Schließt_die_Episode_eCoM_c_conceptia_magica__aus
+e516_ga_____vertreten_durch_die_zweite_Teil_e930_a_Todespropezeihung_Aussetzen_des_neugeborenen_Kindes_bis_zum_Entrissen_des_Kindes_von_der_Wilde
+e516_ga_____Vertreten_durch_die_e505_c_Freikauf_des_verschuldeten_Toten_und_gewinn_der_künftigen_Helfers
+
+e516_i_erste_Belauschung
+e516_ia_____Der_HD_belauscht_wie_man_das_OB_gewinnen_kann
+
+e516_k_Gewinnung_der_Braut_durch_den_Raub
+e516_k_Gewinnung_der_Braut_durch_die_List
+e516_k_Gewinnung_der_Braut_durch_die_Freierprobe
+
+e516_m_Verlust_Wiedergewinnung_und_der_Frau
+e516_ma____Vertreten_durch_die_e301_c_Verlust_des_OB
+
+e516_o_Rückkehr_und_Belauschung_den_Schicksalskünder
+
+e516_q_Abwehr_der_vorletzten_Gefahren
+
+e516_s_Abwehr_der_letzten_Gefahr
+
+e516_u_Erklärung_und_Konsequenzen
+
+e516_v_Erfahren_über_das_Erlösungsmittel_bis_zum_Erlösung
+
+e516_x_Glückliches_Ende
+
+-----------------------------------------------
+Markup für den Typ ATU 516 - Der treue Johannes
+Estellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
+Friedrisch-Schiller-Universität Jena, Sommer-Semester 2014
+Erstellt von Elguja Dadunashvili
+Lizenzbedingungen: CC0 1.0
+
+
+3    
+Durch gleichzeitige wunderbare Empfängnis verbundene Königssohn Adoptivbrüder (Blutbrüder ID 14322) wachsen zusammen auf (treffen einander  ID 13385)
+	Text Id's Count 45 <#>
+5    
+Der passive Held verliebt sich in die Schwester von neun Ungeheuerbrüdern (die Schöne) nach einer Verwünschung durch eine alte Frau (Vgl. ATU 0408 – Die drei Zitronen) 
+	Text Id's Count 39 <#>
+9    
+Die Freunde folgen dem vom aktiven Helden geschossenen Pfeil und kommen zu den neun Ungeheuerbrüdern
+	Text Id's Count 10 <#>
+13    
+Die Ungeheuerbrüder fürchten sich vor der Stärke des kämpfenden Helden 
+	Text Id's Count 38 <#>
+15    
+Die Ungeheuerbrüder stellen ihm schwierige Aufgaben, welche der kämpfende Held mit Hilfe der in der Zauberei bewanderten Schwester der Ungeheuerbrüder löst
+	Text Id's Count 24 <#>
+16    
+Die Ungeheuer geben dem passiven Helden ihre Schwester zur Frau (ihre Tochter ID 23826)
+	Text Id's Count 53 <#>
+17    
+ATU 0301 – Die drei geraubte Prinzessinnen (vollständig + ATU 0300:
+Der Drachentöter)
+Text Id's Count 59 <#>
+19    
+Die Helden kehren zurück nach Hause 
+	Text Id's Count 26 <#>
+20    
+Auf der Rückreise belauscht der Held Vögel (Schicksalskünder) und hört, dass dem Brautpaar mehrere Gefahren drohen 
+Text Id's Count 20 <#>
+
+28    
+Wer von dem Gespräch der Schicksalskünder berichte, müsse zu Stein werden
+Text Id's Count 20 <#>
+
+31    
+Der Held kann alle Gefahren abwenden 
+	Text Id's Count 24 <#>
+
+34    
+Die letzte Rettungstat bewirkt endgültigen Vertrauensverlust
+	Text Id's Count 21 <#>
+
+36    
+Der aktive Held erzählt die Wahrheit und wird versteinert
+	Text Id's Count 22 <#>
+
+38    
+Der passive Held und seine Frau trauern um den Helfer
+	Text Id's Count 21 <#>
+39    
+Sie erfahren von den Schicksalskündern oder im Traum das Mittel der Erlösung: die Tötung des eigenen Kindes, mit dessen Blut der Stein (kranker Freund) bestrichen werden muss
+	Text Id's Count 17 <#>
+48    
+die Ehefrau schlachtet ihre (seine) Kinder
+	Text Id's Count 18 <#>
+
+49    
+Der Freund wird wiederbelebt
+	Text Id's Count 21 <#>
+
+52    
+Die Kinder werden wiederbelebtdurch die vom Zaubervogel geschenkte Feder 
+	Text Id's Count 9 <#>
