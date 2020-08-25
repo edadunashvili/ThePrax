@@ -1,1 +1,7 @@
-a537 Der Flug auf dem dankbaren Adler 
+e537_c_
+------------------------
+Markup für den Typ ATU 537 - Der Flug auf dem dankbaren Adler
+Estellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
+Friedrisch-Schiller-Universität Jena, Sommer-Semester 2020
+Erstellt von Elguja Dadunashvili
+Lizenzbedingungen: CC0 1.0 
