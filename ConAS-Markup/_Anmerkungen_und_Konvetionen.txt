@@ -1,0 +1,28 @@
+Anmerkungen und Konventionen
+Zwecks der Generalisierung der funktionell homogenen Inhaltselemente werden alle handlungstragenden Figuren (Protagonisten) nach ihren allgemeinen Eigenschaften benannt. Diese entsprechen der Verteilung der Märchenfunktionen unter den Protagonisten bzw. Figuren. 
+
+Die Nomenklatur der handlungstragenden Personen wiederholt im Wesentlichen die von Vladimir J. Propp festgelegte Liste. Zwecks Vervollständigung dieser Liste wird die Zahl der Personen im vorliegenden Standard von sieben auf elf erweitert. Für jedes Annotationselement gibt es eine Abkürzung, die wie folgt aufzulösen ist:
+
+1.	HD – Der Held / die Heldin / die Helden 
+2.	OB – Das gesuchte Objekt (kann entweder ein Gegenstand oder eine Ehepartnerin bzw. Ehepartner sein)
+3.	AN – Antagonist (Gegenspieler, Schädlinge)
+4.	HF – Der Helfer / die Helferin (sowohl ein Tier als auch ein Mensch bzw. mythisches Wesen, aber kein Zaubergegenstand, -wissen oder -fähigkeit)
+5.	ZM – Das Zaubermittel (ein Zaubergegenstand, -wissen, -fähigkeit, vgl. HF)
+6.	ST – Der Stifter / die Stifterin des ZMs
+7.	FH – Der falsche Held / die falsche Heldin
+8.	HO – Der Herr / die Herrin des OBs
+9.	AG – Der Auftraggeber (wird oft durch den HO vertreten)
+10.	VB – Verbindende Person(en) / Verbindendes Mittel
+11.	RC – Der Rächer / die Rächerin (ein Handlungsträger, der nach dem Besiegen des ANs den HD verfolgt).
+
+Die Handlungstragende Personen bzw. Wesen und Gegenstände, stehen überall  im Singular und werden durch den grammatischen  Genus des Terminus (im Gegensatz zu dem Genus und Numerus  der Instanz) bezeichnet, z.B. weibliche Aschenputtel wird durch den Terminus Der HD = der Held bezeichnet; die geraubte Königstöchter heißes OB = Das [vom Held] gesuchte Objekt, also Singular im Neutrum. Nach dieser Konvention ist es korrekt wenn etwa geschrieben wird "Der HD heiratet das OB", oder "Der HD wird vom FH zurückgelassen"  es sei denn, dass im letzten Fall nicht ein, sondern mehrere falsche Helden (FH) fungieren.
+
+Jeder ATU Märchentyp wird einam in der Text- und dann auch in XML-fassung dargestellt.  
+Jedes Schema esteht aus zwei Kategorie von Markupelemente:
+2.	Die Episode. Sie setzt sich aus einem Index und dem zusammengefasten Inhalt zusammen. Der Index besteht ihrerseits aus einem Präfix e (=Episode) und der Typnummer sowie aus einem Suffix mit einem alphanummerischen Wert.
+3.	Das Motiv. Es setzt sich aus einem Index und einer zusammenfassende Phrase zusammen. Der Index besteht ihrerseits aus einem Präfix m (=Motiv) und der Typnummer sowie dem Suffix mit zwei kleinen Buchstaben. 
+Ter Typ wird automatisch durch die Indizien der kelinere Elemente (Episode und Motive) erfasst.
+
+Die ausgelassene Buchstaben In der Reihenfolge sind Platzhalter für die potenziell unberücksichtigten Elemente. 
+
+Die Lerzeilen werden überall mit dem Unterstrichzeichen befühlt. 

@@ -1,0 +1,169 @@
+<xs:schema xmlns="http://www.dglab.uni-jena.de/atu/ns" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="http://www.dglab.uni-jena.de/atu/ns">
+    <xs:attributeGroup name="atu_300">
+        <xs:attribute name="a300">
+            <xs:annotation>
+                <xs:documentation>ATU 300 Drachentöter</xs:documentation>
+                <xs:documentation>Kern: Der Held besiegt den Drachen und befreit die Königstöchter die dem Drachen
+                    geopfert werden sollte </xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="a300: Drachentöter"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e300_c_Anfangssituation_Ankunft_und_Erkundigung_der_Not">
+            <xs:annotation>
+                <xs:documentation>_____Ankunft_in_der_fremden_Stadt
+                    _____Auffälligkeit_des_Trauerns_des_Mangels_an_das_Trinkwasser
+                    _____Erkundigung_über_der_Darbringung_des_menschlichen_Opfers</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m300_c_c_Der_HD_kommt_an_den_fremden_Ort"/>
+                    <xs:enumeration value="m300_c_f_Dem_HD_fällt_die_Trauer_des_Ortes_auf"/>
+                    <xs:enumeration value="m300_c_f_Dem_HD_fällt_den_Mangel_an_das_Trinkwasser_auf"/>
+                    <xs:enumeration value="m300_c_j_Der_HD_erkundigt_sich_über_die_menschliche_Opfergabe"/>
+                    <xs:enumeration value="m300_c_j_Der_HD_erkundigt_sich_über_die_Konsequenzen_der_anderen_Bedrohungen"/>
+                    <xs:enumeration
+                        value="m300_c_m_Der_HO_habe_das_OB_demjenigen_zur_Frau_versprochen,_der_den_AN_tödte"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e300_e_Vorfeld_des_Kampfes_bis_zum_Sieg">
+            <xs:annotation>
+                <xs:documentation>_____Aufbruch_des_Helden_zum_Ort_der_Opfergabe
+                    _____Wasserholen_der_Held_geht_und_holt_das_Wasser_vom_Wasserhutenden_Ungeheuer_bevor_er_es_erlegt
+                    _____Führung_der_Jungfrau_zum_Drachen
+                    _____Das_erste_Treffen_des_Helden_und_der_Jungfrau
+                    _____Der_Held_gibt_der_Jungfrau_den_Trost
+                    _____Kampf-Sieg_der_Held_besiegt_den_Drachen_in_Zweikampf_mit_oder_ohne_Hilfe_der_Tiere</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m300_e_c_Der_HD_bricht_zum_Ort_der_Opfergabe_auf"/>
+                    <xs:enumeration value="m300_e_c_Der_HD_begleitet_dem_zum_AN_geführten_OB"/>
+                    <xs:enumeration value="m300_e_c_Der_HD_geht_und_holt_das_Wasser_vom_AN_bevor_er_ihn_tötet"/>
+                    <xs:enumeration value="m300_e_f_Der_HD_gibt_dem_OB_den_Trost"/>
+                    <xs:enumeration value="m300_e_h_Der_HD_ist_ein_mächtiges_Kampfmittel_handhabt_geworden"/>
+                    <xs:enumeration value="m300_e_j_Beim_Warten_auf_den_AN_schläft_der_HD_ein"/>
+                    <xs:enumeration value="m300_e_l_Der_HD_zieht_dem_OB_einen_Gegenstand_ab"/>
+                    <xs:enumeration value="m300_e_l_Das_OB_markiert_den_HD"/>
+                    <xs:enumeration value="m300_e_n_Der_HD_tötet_den_AN"/>
+                    <xs:enumeration value="m300_e_n_Der_HD_zwingt_den_AN_auf_den_Tribut_zu_verzichten"/>
+                    <xs:enumeration value="m300_e_p_Beim_Kampf_hilft_dem_HD_der_HF"/>
+                    <xs:enumeration value="m300_e_p_Der_HD_verwendet_gegen_den_AN_ein_ZM"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e300_g_Nach_dem_Sieg_bis_zur_Trennung_des_HD_und_des_OB">
+            <xs:annotation><xs:documentation>_____Ausschnitt_der_Held_schneidet_die_Zunge_des_von_ihm_getöteten_Drachenrache_aus
+                _____Markierung_der_Held_oder_seine_Tiere_werden_von_der_geretteten_Jungfrau_markiert
+                _____Abschied_oder_Einschlafen_entspricht_dem
+            </xs:documentation></xs:annotation>
+            
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m300_g_c_Der_HD_behält_die_unauffällige_Körperteile_des_erlegten_AN"/>
+                    <xs:enumeration value="m300_g_c_Das_OB_markiert_den_siegreiche_HD_oder_seinen_HF"/>
+                    <xs:enumeration value="m300_g_f_Bereitschaft_zur_Eheschließung_zwischen_HD_und_dem_OB"/>
+                    <xs:enumeration value="m300_g_i_Der_HD_will_bevor_er_heiratet_vom_OB_wegziehen"/>
+                    <xs:enumeration value="m300_g_l_Der_aus_dem_Kampf_erschöpfte_HD_schläft_ein_oder_wird_ohnmächtig"/>
+                    <xs:enumeration value="m300_g_o_Das_befreite_OB_geht_zum_Elternhaus"/>
+                    <xs:enumeration value="m300_g_o_Der_HD_schickt_das_OB_zu_ihrer_Eltern"/>
+                    <xs:enumeration value="m300_g_o_Der_HD_bringt_das_OB_zurück_zum_Elternhaus"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e300_i_Rückkehr_der_Königstochter_und_die_Suche_nach_dem_Held_Retter">
+            <xs:annotation><xs:documentation>_____Befreite_Prinzessin_geht_zm_Palast
+                _____Wahrheitstest</xs:documentation></xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m300_i_c_Der_HO_überprüft_die_Wahrheit_der_erfreulichen_Nachricht"/>
+                    <xs:enumeration value="m300_i_g_Getestet_wird_durch_die_durstigen_Tiere"/>
+                    <xs:enumeration value="m300_i_m_Der_HO_lässt_die_Untertanen_dem_HD_suchen"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e300_k_Misshandlung_des_falschen_Helden_bis_zur_Hochzeitstag">
+            <xs:annotation>
+                <xs:documentation> _____Der_falschen_Helden_bringt_den_richtigen_um
+                    _____Der_falsche_Held_bezwingt_die_Prinzessin_ihn_als_befreier_vorzugeben
+                    _____Die_Hochzeit_wird_verschoben </xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m300_k_c_Der_FH_bringt_den_HD_um"/>
+                    <xs:enumeration value="m300_k_f_Unter_dem_Druck_zwingt_der_FH_das_OB_ihn_als_Befreier_auszugeben"/>
+                    <xs:enumeration value="m300_k_h_Der_FH_gibt_sich_als_Befreier_aus_und_verlangt_die_Hand_des_OB"/>
+                    <xs:enumeration value="m300_k_k_Die_Hochzeit_zwischen_OB_und_dem_FH_wird_verschoben"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e300_l_Wiederbelebung_des_Helden">
+            <xs:annotation>
+                <xs:documentation> ____Dankbare_Tiere_beschaffen_ein_Zaubermittel </xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m300_l_c_Die_HF_beschaffen_ein_ZN"/>
+                    <xs:enumeration value="m300_l_m_Die_HF_beleben_den_HD_wieder"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute
+            name="e300_m_Rückkehr_des_Helden_von_der_Erkundung_über_die_Hochzeit_bis_zum_Wiedergewinn_der_Aufmerksamkeit">
+            <xs:annotation>
+                <xs:documentation>_____Auffälige_Rückkehr_des_Helden_er_zieht_das_Interesse_auf_sich</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m300_m_c_Der_HD_erkundigt_sich_beim_VB_über_die_Hochzeit"/>
+                    <xs:enumeration value="m300_m_f_Der_HD_kehrt_unbekannt_in_die_Stadt_zurück"/>
+                    <xs:enumeration value="m300_m_i_Der_HD_wird_ins_Gefängnis_geworfen"/>
+                    <xs:enumeration value="m300_m_j_Der_HD_wird_von_seinem_HF_befreit"/>
+                    <xs:enumeration value="m300_m_m_Der_HD_wettet_mit_dem_VB_auf_ihn_werde_geachtet"/>
+                    <xs:enumeration value="m300_m_o_Der_HD_sendet_seinen_HF_zum_HO_oder_und_zum_OB"/>
+                    <xs:enumeration value="m300_m_q_Der_HD_zieht_die_Aufmerksamkeit_auf_sich"/>
+                    <xs:enumeration value="m300_m_s_Der_HD_wird_zum_Hochzeit_eingeladen"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e300_o_Auftritt_des_Helden_vor_dem_König_bis_zum_Ende_der_Geschichte">
+            <xs:annotation>
+                <xs:documentation>_____Auftritt_vor_dem_König 
+                    _____Identifizierung 
+                    _____Bestrafung 
+                    _____Hochzeit
+                    _____Belohnung 
+                    _____Platzhalter für die Episode_e554_e_Barmherzige_Umgang_mit_der_Tiere</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m300_o_b_Der_HD_dringt_in_die_Hochzeit_ein"/>
+                    <xs:enumeration value="m300_o_b_Der_HD_wird_als_gesuchter_Befreier_zum_HO_gebracht"/>
+                    <xs:enumeration value="m300_o_d_Der_HD_schlägt_vor_dass_jeder_Anwesende_sein_Abenteuer_erzählt"/>
+                    <xs:enumeration value="m300_o_d_Das_OB_erzählt_die_Wahrheit"/>
+                    <xs:enumeration value="m300_o_e_Der_HD_legt_die_unauffällige_Körperteile_des_AN_vor"/>
+                    <xs:enumeration
+                        value="m300_o_f_Der_HD_oder_sein_HF_wird_durch_die_zuvor_unternommene_Markierung_belegt"/>
+                    <xs:enumeration value="m300_o_f_Das_OB_erkennt_den_HD"/>
+                    <xs:enumeration value="m300_o_h_Der_FH_wird_bestraft"/>
+                    <xs:enumeration value="m300_o_h_Der_FH_wird_vom_HD_im_Zweikampf_besiegt"/>
+                    <xs:enumeration value="m300_o_j_Der_HD_heiratet_das_OB"/>
+                    <xs:enumeration value="m300_o_j_Der_HD_nimmt_Geld_als_Belohnung_an"/>
+                    <xs:enumeration value="m300_o_j_Der_HD_gibt_das_OB_dem_AG_zur_Ehefrau"/>
+                    <xs:enumeration value="m300_o_j_Der_HD_lehnt_den_Vorschlag_ab_das_OB_zu_Frau_zu_nehmen"/>
+                    <xs:enumeration value="m300_o_j_Der_HD_lehnt_den_Vorschlag_des_HO_ab_eine_Belohnung_anzunehmen"/>
+                    <xs:enumeration value="m300_o_j_Der_HD_bittet_um_die_Fahrt_in_die_Oberwelt"/>
+                    <xs:enumeration
+                        value="m300_o_m_Der_HD_wird_über_einen_Vogel_als_möglicher_Helfer_bei_der_Fahrt_nach_Oberwelt_informiert"/>
+                    <xs:enumeration value="m300_o_o_Der_HD_nimmt_ein_bisschen_Wasser_als_Heilmittel_mit"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:attributeGroup>
+</xs:schema>
