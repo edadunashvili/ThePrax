@@ -1,27 +1,20 @@
-eCoM_c_conceptia_magica
-mCoM_c_c_Begehrung
-mCoM_c_c_Mangel_an_den_Kontakt_mit_Außenwelt
-mCoM_c_c_Keuschheit
-mCoM_c_c_Kinderlosigkeit
-mCoM_c_e_Das_Mittel_Wird_gesucht
-mCoM_c_e_Der_Wunsch_wird_geäußert
-mCoM_c_g_Mittel_wird_unwissentlich_angenommen
-mCoM_c_g_Ist_zufällig_habhaft_geworden
-mCoM_c_g_Befruchtung_eines_leblosen_Objektes
-mCoM_c_i_Es_folgt_eine_männliche_Schwangerschaft
-mCoM_c_i_Eine_weibliche_Schwangerschaft
-mCoM_c_j_Geburt_des_Kindes_fordert_einen_chirurgischen_Eingriff
-mCoM_c_l_Geboren_wird_ein_Kind
-mCoM_c_l_Geboren_werden_mehrere_Kinder
-mCoM_c_l_Geboren_wird_ein_Tier
-mCoM_c_l_Geboren_wird_eine_seltsame_Kreatur
-mCoM_c_n_G_Kinder_werden_von_verschiedenen_Eltern_geboren
-mCoM_c_p_Parallel_der_Kinder__werden_Tiere_erzeugt
-mCoM_c_r_Parallel_der_Kinder__werden_Sachen_erzeugt
-
-------------------------
-Markup für den Typ aCoM - conceptia magica
-Estellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
-Friedrisch-Schiller-Universität Jena, Sommer-Semester 2020
-Erstellt von Elguja Dadunashvili
-Lizenzbedingungen: CC0 1.0
+'eCoM_c_conceptia_magica'
+'mCoM_c_c_Begehrung'
+'mCoM_c_c_Mangel_an_den_Kontakt_mit_Außenwelt'
+'mCoM_c_c_Keuschheit'
+'mCoM_c_c_Kinderlosigkeit'
+'mCoM_c_e_Das_Mittel_Wird_gesucht'
+'mCoM_c_e_Der_Wunsch_wird_geäußert'
+'mCoM_c_g_Mittel_wird_unwissentlich_angenommen'
+'mCoM_c_g_Ist_zufällig_habhaft_geworden'
+'mCoM_c_g_Befruchtung_eines_leblosen_Objektes'
+'mCoM_c_i_Es_folgt_eine_männliche_Schwangerschaft'
+'mCoM_c_i_Eine_weibliche_Schwangerschaft'
+'mCoM_c_j_Geburt_des_Kindes_fordert_einen_chirurgischen_Eingriff'
+'mCoM_c_l_Geboren_wird_ein_Kind'
+'mCoM_c_l_Geboren_werden_mehrere_Kinder'
+'mCoM_c_l_Geboren_wird_ein_Tier'
+'mCoM_c_l_Geboren_wird_eine_seltsame_Kreatur'
+'mCoM_c_n_G_Kinder_werden_von_verschiedenen_Eltern_geboren'
+'mCoM_c_p_Parallel_der_Kinder__werden_Tiere_erzeugt'
+'mCoM_c_r_Parallel_der_Kinder__werden_Sachen_erzeugt'

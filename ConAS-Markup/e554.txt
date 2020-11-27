@@ -1,14 +1,7 @@
-e554_b_Eingangsepisode_bis_zum_Treffen_mit_der_Tiere
-e554_c_Missachtung_der_Tieren
-e554_e_der_Held_hilft_den_Tieren_und_Tiere_sprechen_Ihre_Dankbarkeit_aus
-e554_g_Man_muss_schwierige_Aufgaben_lösen
-e554_i_Die_falschen_Helden_scheitern_bei_der_Lösung_der_schwierigen_Aufgaben
-e554_k_Der_Held_genießt_die_Gegenleistung_der_Tieren
-e554_m_Nach_der_Erfüllung_der_letzten_Aufgabe_bis_zum_Ende_der_Geschichte
-
------------------------------------------------
-Episoden-Markup für den Typ ATU 554 - Die dankbare Tiere
-Erstellt im Rahmen des Seminars "Theorie und Praxis der vergleichenden Märchenforschung (digitale Erschließung)"
-Friedrisch-Schiller-UniversitätJena, Sommer-Semester 2020
-Schema wurde erstellt von Jakub Senjor unter der Leitung von Prof. Dr. Elguja Dadunashvili
-Lizenzbedingungen: CC0 1.0
+'e554_b_Eingangsepisode_bis_zum_Treffen_mit_der_Tiere'
+'e554_c_Missachtung_der_Tieren'
+'e554_e_der_Held_hilft_den_Tieren_und_Tiere_sprechen_Ihre_Dankbarkeit_aus'
+'e554_g_Man_muss_schwierige_Aufgaben_lösen'
+'e554_i_Die_falschen_Helden_scheitern_bei_der_Lösung_der_schwierigen_Aufgaben'
+'e554_k_Der_Held_genießt_die_Gegenleistung_der_Tieren'
+'e554_m_Nach_der_Erfüllung_der_letzten_Aufgabe_bis_zum_Ende_der_Geschichte'

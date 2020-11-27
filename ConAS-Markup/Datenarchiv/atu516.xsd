@@ -1,0 +1,185 @@
+<xs:schema xmlns="http://www.dglab.uni-jena.de/atu/ns" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    elementFormDefault="qualified" targetNamespace="http://www.dglab.uni-jena.de/atu/ns">
+    <xs:attributeGroup name="atu_516">
+        <xs:attribute name="a516">
+            <xs:annotation>
+                <xs:documentation>a516 Der treue Johannes</xs:documentation>
+                <xs:documentation/>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="a516 Der treue Johannes"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_c">
+            <xs:annotation>
+                <xs:documentation>e516_c_Der_Grund_ür_die_Freundschaft
+                    e516_ca_____Vertreten_durch_die_e931_c_Todespropezeihung_Aussetzen_des_neugeborenen_Kindes_bis_zum_Entrissen_des_Kindes_von_der_Wilde
+                    e516_ca_____Vertreten_durch_die_eCoM_a_conceptia_magica</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m516_c_c_Der_HF_ist_schon_seit_einiger_Zeit_im_Hof_tätig"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_e">
+            <xs:annotation>
+                <xs:documentation>e516_e_Fernliebe_bis_zum_Aufbruch_zur_Suche_der_Traumfrau</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m516_e_c_Der_Held_verliebt_sich_in_die_Frau_die_schwer_zu_erreichen_ist"/>
+                    <xs:enumeration value="m516_e_d_Die_Liebe_wird_durch_die_Verwunschung_erregt"/>
+                    <xs:enumeration value="m516_e_d_Die_Liebe_wird_durch_ein_Bild_erregt"/>
+                    <xs:enumeration value="m516_e_d_Die_Liebe_wird_durch_eine_Überlieferung_erregt"/>
+                    <xs:enumeration value="m516_e_d_Die_Liebe_wird_durch_den_Traum_erregt"/>
+                    <xs:enumeration value="m516_e_e_Der_Held_versinkt_in_die_Fassungslosigkeit_oder_wird_krank"/>
+                    <xs:enumeration value="m554_m516_e_g_er_Helfer_mischt_nach_unterschiedlicher_Weise_ins_Problem_ein"/>
+                    <xs:enumeration value="m516_e_i_Afbruch_nach_der_Suche_der_Traumfrau"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_g">
+            <xs:annotation>
+                <xs:documentation>e516_g_Ertste_Begegnung_mit_dem_Helfer
+                    e516_ga_____Schließt_die_Episode_eCoM_c_conceptia_magica_aus
+                    e516_ga_____vertreten_durch_die_zweite_Teil_e930_a_Todespropezeihung_Aussetzen_des_neugeborenen_Kindes_bis_zum_Entrissen_des_Kindes_von_der_Wilde
+                    e516_ga_____Vertreten_durch_die_e505_c_Freikauf_des_verschuldeten_Toten_und_gewinn_der_künftigen_Helfers</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m516_g_c_Der_HD_trifft_mit_dem_künftigen_HF_erst_nach_dem_Beginn_der_Reise"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_i">
+            <xs:annotation>
+                <xs:documentation>e516_i_Erste_Belauschung</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration
+                        value="m516_i_c_Auf_dem_Weg_zum_OB_erfährt_der_HD_durch_die_Belauschung_wie_man_das_OB_gewinnen_kann"/>
+                    <xs:enumeration
+                        value="m516_i_e_Bei_der_Verkündigungi_wird_berichtet_welche_Gefahren_dem_Brautpaar_drohen"/>
+                    <xs:enumeration value="m516_i_g_Wer_das_Geheimnis_nachsagt_wird_zu_Stein"/>
+                    <xs:enumeration value="m516_i_i_Der_HF_bekommt_Ratschlägeoder_ein_ZM_vom_ST"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_k">
+            <xs:annotation>
+                <xs:documentation>e516_k_Gewinnung_der_Braut_durch_den_Raub_oder_Demonstration_der_Macht</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value="m516 dg: Als Kaufmann verkleidete HF lockt das OB auf ihr Schiff"/>
+                    <xs:enumeration value="m516 dg: Der HF dringt in das bewachte Gebäude und führt das OB weg"/>
+                    <xs:enumeration value="m516 dn: Der HD und HF entführen das OB ohne keinerlei Trick"/>
+                    <xs:enumeration
+                        value="m516 dn: Der HO geben das OB dem HD zur Frau weil sie sich vor der stärke des HF fürchtet"/>     
+                    <xs:enumeration value="m516 dn: Der HF entzaubert den Aufenthaltsort des OB"/>
+                    <xs:enumeration value="m516 dn: Heirat erfolgt ohne weiteres"/>
+                    
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_l">
+            <xs:annotation>
+                <xs:documentation>e516_l_Gewinnung_der_Braut_durch_die_List</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration
+                        value="m516 dg: Um zum OB vorzudringen verwendet der HD ein hohles künstlichen Tiers bzw. Musikinstrument"
+                    />
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_m">
+            <xs:annotation>
+                <xs:documentation>e516_m_Gewinnung_der_Braut_durch_die_Freierprobe</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value=""/>
+                    <xs:enumeration value="m516 dq: Der HF löst die vom HO gestellte schwierige Aufgaben"/>
+                    <xs:enumeration value="m516 ds: Bei der Lösung der schwierigen Aufgaben verwendet der HD das ZM"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_n">
+            <xs:annotation>
+                <xs:documentation>516_m_Gewinnung_der_Braut_durch_das_gemeinsame_Fliehen</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value=""/>
+                    <xs:enumeration value="m516 dn: Der HD, sein HF und das OB fliehen gemeinsam vom HO weg"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_o">
+            <xs:annotation>
+                <xs:documentation>e516_o_Rückkehr_und_Belauschung_den_Schicksalskünder</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value=""/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_q">
+            <xs:annotation>
+                <xs:documentation>e516_q_Abwehr_der_vorletzten_Gefahren</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value=""/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_s">
+            <xs:annotation>
+                <xs:documentation>e516_s_Abwehr_der_letzten_Gefahr</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value=""/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_u">
+            <xs:annotation>
+                <xs:documentation>e516_u_Erklärung_und_Konsequenzen</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value=""/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_v">
+            <xs:annotation>
+                <xs:documentation>e516_v_Erfahren_über_das_Erlösungsmittel_bis_zum_Erlösung</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value=""/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="e516_x">
+            <xs:annotation>
+                <xs:documentation>e516_x_Glückliches_Ende</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+                <xs:restriction base="xs:normalizedString">
+                    <xs:enumeration value=""/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+    </xs:attributeGroup>
+</xs:schema>
