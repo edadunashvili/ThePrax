@@ -1,4 +1,4 @@
-xquery version "1.0";
+xquery version "3.1";
 let $a := doc("atu516.xsd")
 for $b in $a//ancestor::xs:schema/xs:attributeGroup/xs:attribute//[text(), @value/string()]
 return
